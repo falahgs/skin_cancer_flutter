@@ -1,0 +1,17 @@
+
+https://console.firebase.google.com/u/0/project/skin-cancer-c7539/firestore/data/~2Fdata~2F0U5BljtPF5QodrZftaSj
+
+skin cancer detection
+
+App.for skin cancer detection for 7  tumors types
+
+
+App.skin cancer detection for 7  tumors types like 
+Actinic keratoses,Basal cell carcinoma,Benign keratosis,Dermatofibroma
+,Melanocytic nevi,Melanoma,Vascular lesions
+by using machine learning techniques in artificial intelligence field 
+ for help doctors  to know type of skine cancer tumor 
+ for be  best diagnosations in best way and free way
+
+ 
+ 
